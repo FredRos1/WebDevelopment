@@ -1,0 +1,128 @@
+<!DOCTYPE HTML>
+
+<html>
+<head>
+    <title>SponsorShips</title>
+  <style>
+        body {background-image: url('https://images.hdqwalls.com/download/dark-night-mountains-minimalist-4k-o4-1440x900.jpg');}
+        body { background-repeat: no-repeat;
+                background-attachment: fixed;
+                background-size: cover;}
+        h1   {color: #d0d0d0;}
+        h1   {background-color: #292f2f;}
+        h2   {color: #d0d0d0;}
+        h3   {color: #d0d0d0;}  
+        h1   {background-color: #2c3333 }
+        p    {color: #d8d8d8;
+                line-height: 25px}
+        li   {color: #d8d8d8;}
+        #head1 {background-color: #2c2c2c;
+                height: 100px;
+                font: 100%;}
+        div {width:65%;
+                margin:auto;}
+        div {background-color: #2c2c2c;}
+        #head {background-color: #2c2c2c;
+                color: #2c2c2c;
+                margin: auto;
+                text-align: center;
+                border-radius: 25px;
+                padding: 20px;
+                height: 40%;}
+      #heading { color: #d0d0d0;}
+       
+      
+        #box1 {width: 95%;
+                margin-top: 30px;
+                padding-top: 20px;
+                margin-bottom: 30px;
+                padding-bottom: 20px;}
+        img {width: auto;}
+        #topnav {margin: center;
+                padding-top: 35px;
+                margin-top: 20px;
+                height: 50px;
+                text-align: center;
+                background-color: #2c2c2c;
+                height: 45px;}
+      a         {color: #d0d0d0;
+                padding: 25px;}
+      #topnavborder {height: 80px;}
+                
+      
+                    
+                  
+                
+          
+     
+    </style>
+</head>
+
+    
+    
+<body>
+    
+
+    <div id="head">    
+    <h1 id="head1" style="font-size: 500%;">7 Principles for teenagers to become millionaires</h1>
+    </div>
+    <div id="topnavborder">
+        <div id="topnav">
+                <a class="active" href="index.html">Web Development</a>
+                <a href="7Teens.html">7 Principles for teenagers to become millionaires</a>
+                <a href="Intro">Intro</a>
+        </div>
+    </div>
+    <div>
+        <div id="box1">
+            <h1 id="heading"><b>1: In order to be a king you must be a pawn before becoming a king. </b></h1>
+        
+        
+            <h3>Know what level of financially you what to be:</h3>
+            
+            <p>
+               You need to earn your strips, it kinder like if you join the football club but you the ball boy. At the end you’re going to be expected to be carry all of one place to other. And you need to go through that to one day become the captain, you don’t just com in especially as someone who is young and all of a sudden become the captain. People what to jump from the start to the finish line andt don’t want to alle the work the needs to be done in order to understand what is what and all the things is that you need to know. they just want the results.
+            </p>
+            <br>
+           
+    </div>        
+    <div id="box1">
+            <h1><b>2: Dress to elevate</b></h1>
+            <p>
+               When you are young people are going to automatically discredit you, you don’t want to make it worse by the way you dress. Don’t go wearing big branded clothes, it will make you look like a showoff so don’t do that. This means that don’t go to a business meeting wearing that, people will look down on you. Of course you can wear it if that means your going to a family meeting or just chilling at home.  
+            </p>
+    </div>    
+    <div id="box1">
+            <h1><b>3: humble your self  </b></h1>
+            <p>
+                Things that will humble you combat sports and so und. Business well humble you because no matter how good you are when you get into the word of the market well tell you how good you are. Lets say you’re business is taking of and you haring you’re first employee and they leave because a the work isn’t enjoyable enough or potentially maybe your not a inspiring leader. Maybe I wasn’t a sort of leader where my team was like I would follow you into war. So whether it’s business whether is combat sports you need some thing external in your life to humble you and but you in your place 
+    </div>
+    <div id="box1">
+    <h1><b>4: No casual dating.</b></h1>
+    <p>
+       Its either some serious or nothing at all. Listen if you are in your teenage years or your early 20s either you go for something serious no casual dates no casual flings Stuff like that. Listen you are man in your early years make something of yourself, and either have a partner early on they will support you through that as something serious. None of this casual hinge tinder blah blah all that funking bullshit.    
+    </p>
+    </div>
+    <div id="box1">    
+    <h1><b>5: small circle big influence </b></h1>
+    <p>
+       Theres is nothing wrong with many people knowing you or with you having man acquaintances but you should have very few friends and here’s the thing most people in this fake life don’t know the difference between acquaintance and a friend because most people don’t understand what true loyalty is. They are around people that thay don’t like they’re around for clout or money. Keep your circle tight but you’re influence Lage, many people can and should know a few and im not talking about having a massive social media following 
+    </p>
+    </div>
+    <div id="box1">    
+    <h1><b>6: God will test you   </b></h1>
+    <p>God will all was test you to se what you can andt can’t handle. And this is very important because becoming successful and making you’re fist million in your teen or your early 20s that’s great. Can you keep it now and can you not only can  you multiply it because that’s a lot of pressure. Listen if you make your fist million dollars when you’re 18 or 20thats great but that’s a lot of pressure every year after that can you hold that same standard so you need to understand the God if he blesses you if he gives you that million at a young age he’s goner see if you can handle it 
+    </p>
+    </div>
+    <div id="box1">    
+    <h1><b>7: invest early  </b></h1>
+    <p>
+        Don’t but real estate as its not easy to sell as son you get money push it away invest it. Don’t go buying a new Lambo people don’t think “wow well done” no they think he just got lucy  so thers no point paing stuff like that people just think you got luck on some crypto. when you get to the age of 21-23 people now start to see what has happened here. So don’t go out baying  super cars til then 
+    </p>
+        
+
+            </div>
+   
+</div>
+</body>
+</html>

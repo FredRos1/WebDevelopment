@@ -1,0 +1,19 @@
+<!DOCTYPE HTML>
+
+<html>
+<head>
+    <title>7 Teens</title>
+    <style>
+
+    </style>
+</head>
+
+    
+    
+<body>
+   <div class="topnav">
+                <a class="active" href="7Teens.html">7 Teens</a>
+                <a href="index.html">Forsiden</a>
+            </div> 
+</body>
+</html>
